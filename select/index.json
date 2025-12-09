@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いつもと同じ夜",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-09T19:17:02.468609Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつもと同じ夜",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_いつもと同じ夜_ゴールデンボンバー.txt"
+    }
+  ]
+}
